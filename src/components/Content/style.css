@@ -1,0 +1,11 @@
+.content {
+  grid-area: content;
+  background: #fefefe;
+  color: #008532;
+  padding: 10px;
+}
+
+.content li > a, a:visited {
+  text-decoration: none;
+  color: #1C89FF;
+}
